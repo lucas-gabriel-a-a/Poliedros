@@ -1,0 +1,1 @@
+Calcula todas as informações disponíveis sobre prismas, poliedros no geral e pirâmides
